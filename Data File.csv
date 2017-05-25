@@ -2,7 +2,7 @@ CallFlow,CallTransfer,CallLogs
 "GreetingDefault
 MainMenuNI1
 MainMenuNI2","Transfering to=6828000;
-Transfer_reason=Caller unable to self-service in the IVR;",e4010-20170504174713447-896.txt
+content=Avaya API Request;",e4010-20170504174713447-896.txt
 "Greeting
 ClosedHospUCMM_1
 ClosedHospUCMM_2",,e4007-20170504174422027-952.txt
