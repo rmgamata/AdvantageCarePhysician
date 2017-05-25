@@ -125,6 +125,8 @@ def excel():
 if __name__ == "__main__":
 	main()
 	excel()
+	print "OVERALL PASSED: ",overall_passed
+	print "TC: ",testcases
 	if exec_counter == testcases:
 		getcontext().prec = 3
 		percentage = Decimal(overall_passed)/Decimal(testcases) * 100
